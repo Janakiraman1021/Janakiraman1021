@@ -26,7 +26,7 @@
 
 <p align="left">
 <a href="linkedin.com/in/janakiraman-k-28a45a257/" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1661161645857710081/6WtDIesg_400x400.png" alt="janakiraman k" height="30" width="40" /></a>
-<a href="https://instagram.com/techie_jr_21" target="blank"><img align="center" src="https://i.pinimg.com/736x/17/c3/2e/17c32e3a283a20c9f8225a25d50666ff.jpg" alt="techie_jr_21" height="30" width="40" /></a>
+<a href="https://instagram.com/techie_jr" target="blank"><img align="center" src="https://i.pinimg.com/736x/17/c3/2e/17c32e3a283a20c9f8225a25d50666ff.jpg" alt="techie_jr_21" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
