@@ -1,5 +1,5 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://as1.ftcdn.net/v2/jpg/03/52/39/00/1000_F_352390061_Bem8aYkzfGhIObTC4fXhf0PmKQjWM1wN.jpg))](https://dev-jr.vercel.app/)
-<h1 align="center">Hi 👋, I'm JanakiRaman</h1>
+[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)]([https://rishavchanda.io](https://dev-jr.vercel.app/))
+<h1 align="center">Hi Dev's, This Is  JanakiRaman Here</h1>
 <h3 align="center">A passionate Fullstack And Python Developer</h3>
 <img allign="center" alt="coding" width=400 src = "https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif">
 
