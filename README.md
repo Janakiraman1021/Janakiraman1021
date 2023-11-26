@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://dev-jr.vercel.app/)
 <h1 align="center">Hi 👋, I'm JanakiRaman</h1>
 <h3 align="center">A passionate Fullstack And Python Developer</h3>
-<img allign="right" alt="coding" width=400 src = "https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif">
+<img allign="center" alt="coding" width=400 src = "https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janakiraman1021&label=Profile%20views&color=0e75b6&style=flat" alt="janakiraman1021" /> </p>
 
