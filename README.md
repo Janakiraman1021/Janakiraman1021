@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on **Automations**
 
-- 👨‍💻 All of my projects are available at [https://dev-jr.vercel.app/](https://dev-jr.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://jr-portfolio-gilt.vercel.app/](https://jr-portfolio-gilt.vercel.app/)
 
 - 💬 Ask me about **MERN**
 
