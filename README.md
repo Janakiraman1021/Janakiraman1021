@@ -7,7 +7,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amorous.uphoria_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/janakiraman-k-28a45a257) 
 
 # 💻 Tech Stack:# 💫 About Me:
-🔭 I’m currently working on *Block Chain**<br>🌱 I’m currently learning FrameWorks,Testing,Three Js<br><br>👯 I’m looking to collaborate on Automations<br><br>👨‍💻 All of my projects are available at https://dev-jr.vercel.app/<br><br>💬 Ask me about MERN<br><br>📫 Reach Me Via techie.jr21@gmail.com
+🔭 I’m currently working on *Block Chain**<br>🌱 I’m currently learning FrameWorks,Testing,Three Js<br><br>👯 I’m looking to collaborate on Automations<br><br>👨‍💻 All of my projects are available at https://jrportfolio-six.vercel.app/<br><br>💬 Ask me about MERN<br><br>📫 Reach Me Via techie.jr21@gmail.com
 
 
 # 💻 Tech Stack:
