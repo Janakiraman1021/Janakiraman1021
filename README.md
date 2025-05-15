@@ -3,7 +3,7 @@
 
 
 
-## 🌐 Socials:
+## 🌐 Socials: JR
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amorous.uphoria_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/janakiraman-k-28a45a257) 
 
 # 💻 Tech Stack:# 💫 About Me:
