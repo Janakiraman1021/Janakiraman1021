@@ -337,8 +337,9 @@ contract Web3Developer is Ownable {
 
 ### **🔥 CONTINUOUS BUILDING STREAK**
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Janakiraman1021&theme=radical&short_numbers=true&date_format=n%2Fj%5B%2FY%5D" alt="GitHub Streak" /></a>
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janakiraman1021&" alt="janakiraman1021" /></p>
+
+
 
 ### 📧 **CONTACT INFORMATION**
 
