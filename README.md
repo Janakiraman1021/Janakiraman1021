@@ -169,8 +169,13 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Janakiraman1021&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=000000&title_color=1E90FF&text_color=ffffff&icon_color=4169E1&border_color=1E90FF&border_radius=10"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janakiraman1021&layout=compact&theme=dark&bg_color=000000&title_color=1E90FF&text_color=ffffff&border_color=1E90FF&border_radius=10"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Janakiraman1021&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00ff41&text_color=ffffff&icon_color=ff073a&border_color=00ff41&border_radius=15"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janakiraman1021&layout=compact&theme=synthwave&bg_color=0D1117&title_color=00ff41&text_color=ffffff&border_color=00ff41&border_radius=15"/>
+
+### **🔥 CONTINUOUS BUILDING STREAK**
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janakiraman1021&" alt="janakiraman1021" /></p>
+
 
 </div>
 
