@@ -202,8 +202,8 @@
 |:---:|:---:|:---:|
 | 📧 **Email** | techie.jr21@gmail.com | 24/7 |
 | 📱 **Phone** | +91 76049 13189 | 9 AM - 9 PM IST |
-| 💼 **LinkedIn** | [Connect](https://linkedin.com/in/janakiraman-k) | Active |
-| 🌐 **Portfolio** | [Visit](https://janakiraman-dev.vercel.app/) | Always Online |
+| 💼 **LinkedIn** | [Connect](https://www.linkedin.com/in/janakiraman-k-28a45a257/) | Active |
+| 🌐 **Portfolio** | [Visit](https://janakiraman-web3.vercel.app/) | Always Online |
 
 </div>
 
