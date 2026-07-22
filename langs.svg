@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="484" viewBox="0 0 820 484" role="img" aria-labelledby="title desc">
+  <title id="title">Local language bars for Janakiraman</title>
+  <desc id="desc">Animated language bars computed from public repository primary-language counts.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#170416"/><stop offset="1" stop-color="#210a31"/></linearGradient>
+    <style><![CDATA[
+      .lang { opacity:0; animation:fadeUp .55s ease forwards; }
+      @keyframes fadeUp { from{opacity:0; transform:translateY(12px)} to{opacity:1; transform:translateY(0)} }
+    ]]></style>
+  </defs>
+  <rect width="820" height="484" rx="28" fill="url(#bg)"/>
+  <rect x="1" y="1" width="818" height="482" rx="27" fill="none" stroke="#ff64bd" stroke-opacity=".45"/>
+  <text x="42" y="44" fill="#fff0fb" font-size="27" font-family="Arial Black, Arial, sans-serif">Language Mix</text>
+  <text x="780" y="45" text-anchor="end" fill="#f0abfc" font-size="14" font-family="Consolas, Monaco, monospace">151 non-fork repos</text>
+  
+      <g class="lang" style="animation-delay:0.25s">
+        <text x="58" y="82" fill="#fff0fb" font-size="16" font-family="Inter, Arial, sans-serif" font-weight="800">HTML</text>
+        <text x="768" y="82" text-anchor="end" fill="#d8a9e8" font-size="14" font-family="Consolas, Monaco, monospace">39 repos</text>
+        <rect x="154" y="68" width="590" height="12" rx="6" fill="#2a1430"/>
+        <rect x="154" y="68" width="0" height="12" rx="6" fill="#ff4fb8"><animate attributeName="width" from="0" to="160" dur="1s" begin="0.45s" fill="freeze"/></rect>
+      </g>
+      <g class="lang" style="animation-delay:0.33s">
+        <text x="58" y="119" fill="#fff0fb" font-size="16" font-family="Inter, Arial, sans-serif" font-weight="800">JavaScript</text>
+        <text x="768" y="119" text-anchor="end" fill="#d8a9e8" font-size="14" font-family="Consolas, Monaco, monospace">28 repos</text>
+        <rect x="154" y="105" width="590" height="12" rx="6" fill="#2a1430"/>
+        <rect x="154" y="105" width="0" height="12" rx="6" fill="#c026d3"><animate attributeName="width" from="0" to="115" dur="1s" begin="0.53s" fill="freeze"/></rect>
+      </g>
+      <g class="lang" style="animation-delay:0.41000000000000003s">
+        <text x="58" y="156" fill="#fff0fb" font-size="16" font-family="Inter, Arial, sans-serif" font-weight="800">Other</text>
+        <text x="768" y="156" text-anchor="end" fill="#d8a9e8" font-size="14" font-family="Consolas, Monaco, monospace">23 repos</text>
+        <rect x="154" y="142" width="590" height="12" rx="6" fill="#2a1430"/>
+        <rect x="154" y="142" width="0" height="12" rx="6" fill="#8b5cf6"><animate attributeName="width" from="0" to="94" dur="1s" begin="0.61s" fill="freeze"/></rect>
+      </g>
+      <g class="lang" style="animation-delay:0.49s">
+        <text x="58" y="193" fill="#fff0fb" font-size="16" font-family="Inter, Arial, sans-serif" font-weight="800">Python</text>
+        <text x="768" y="193" text-anchor="end" fill="#d8a9e8" font-size="14" font-family="Consolas, Monaco, monospace">18 repos</text>
+        <rect x="154" y="179" width="590" height="12" rx="6" fill="#2a1430"/>
+        <rect x="154" y="179" width="0" height="12" rx="6" fill="#14b8a6"><animate attributeName="width" from="0" to="74" dur="1s" begin="0.69s" fill="freeze"/></rect>
+      </g>
+      <g class="lang" style="animation-delay:0.5700000000000001s">
+        <text x="58" y="230" fill="#fff0fb" font-size="16" font-family="Inter, Arial, sans-serif" font-weight="800">TypeScript</text>
+        <text x="768" y="230" text-anchor="end" fill="#d8a9e8" font-size="14" font-family="Consolas, Monaco, monospace">18 repos</text>
+        <rect x="154" y="216" width="590" height="12" rx="6" fill="#2a1430"/>
+        <rect x="154" y="216" width="0" height="12" rx="6" fill="#f59e0b"><animate attributeName="width" from="0" to="74" dur="1s" begin="0.77s" fill="freeze"/></rect>
+      </g>
+      <g class="lang" style="animation-delay:0.65s">
+        <text x="58" y="267" fill="#fff0fb" font-size="16" font-family="Inter, Arial, sans-serif" font-weight="800">CSS</text>
+        <text x="768" y="267" text-anchor="end" fill="#d8a9e8" font-size="14" font-family="Consolas, Monaco, monospace">14 repos</text>
+        <rect x="154" y="253" width="590" height="12" rx="6" fill="#2a1430"/>
+        <rect x="154" y="253" width="0" height="12" rx="6" fill="#38bdf8"><animate attributeName="width" from="0" to="57" dur="1s" begin="0.8500000000000001s" fill="freeze"/></rect>
+      </g>
+      <g class="lang" style="animation-delay:0.73s">
+        <text x="58" y="304" fill="#fff0fb" font-size="16" font-family="Inter, Arial, sans-serif" font-weight="800">C#</text>
+        <text x="768" y="304" text-anchor="end" fill="#d8a9e8" font-size="14" font-family="Consolas, Monaco, monospace">4 repos</text>
+        <rect x="154" y="290" width="590" height="12" rx="6" fill="#2a1430"/>
+        <rect x="154" y="290" width="0" height="12" rx="6" fill="#fb7185"><animate attributeName="width" from="0" to="16" dur="1s" begin="0.9299999999999999s" fill="freeze"/></rect>
+      </g>
+      <g class="lang" style="animation-delay:0.81s">
+        <text x="58" y="341" fill="#fff0fb" font-size="16" font-family="Inter, Arial, sans-serif" font-weight="800">SCSS</text>
+        <text x="768" y="341" text-anchor="end" fill="#d8a9e8" font-size="14" font-family="Consolas, Monaco, monospace">2 repos</text>
+        <rect x="154" y="327" width="590" height="12" rx="6" fill="#2a1430"/>
+        <rect x="154" y="327" width="0" height="12" rx="6" fill="#a3e635"><animate attributeName="width" from="0" to="8" dur="1s" begin="1.01s" fill="freeze"/></rect>
+      </g>
+      <g class="lang" style="animation-delay:0.89s">
+        <text x="58" y="378" fill="#fff0fb" font-size="16" font-family="Inter, Arial, sans-serif" font-weight="800">Java</text>
+        <text x="768" y="378" text-anchor="end" fill="#d8a9e8" font-size="14" font-family="Consolas, Monaco, monospace">2 repos</text>
+        <rect x="154" y="364" width="590" height="12" rx="6" fill="#2a1430"/>
+        <rect x="154" y="364" width="0" height="12" rx="6" fill="#e879f9"><animate attributeName="width" from="0" to="8" dur="1s" begin="1.09s" fill="freeze"/></rect>
+      </g>
+      <g class="lang" style="animation-delay:0.97s">
+        <text x="58" y="415" fill="#fff0fb" font-size="16" font-family="Inter, Arial, sans-serif" font-weight="800">Go</text>
+        <text x="768" y="415" text-anchor="end" fill="#d8a9e8" font-size="14" font-family="Consolas, Monaco, monospace">1 repos</text>
+        <rect x="154" y="401" width="590" height="12" rx="6" fill="#2a1430"/>
+        <rect x="154" y="401" width="0" height="12" rx="6" fill="#22c55e"><animate attributeName="width" from="0" to="8" dur="1s" begin="1.17s" fill="freeze"/></rect>
+      </g>
+</svg>

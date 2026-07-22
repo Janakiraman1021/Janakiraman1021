@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="326" viewBox="0 0 820 326" role="img" aria-labelledby="title desc">
+  <title id="title">Local GitHub stats for Janakiraman</title>
+  <desc id="desc">Animated local stat card with rank ring and verified public GitHub profile metrics.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#190519"/><stop offset="1" stop-color="#150827"/></linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff4fb8"/><stop offset=".55" stop-color="#c026d3"/><stop offset="1" stop-color="#14b8a6"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style><![CDATA[
+      .row { opacity:0; animation:rowIn .65s ease forwards; }
+      @keyframes rowIn { from{opacity:0; transform:translateX(-22px)} to{opacity:1; transform:translateX(0)} }
+      .ring { stroke-dasharray:0 690; animation:ring 1.6s ease forwards; }
+      @keyframes ring { to{stroke-dasharray:552 690} }
+      .pulse { animation:pulse 2.8s ease-in-out infinite; transform-origin:center; }
+      @keyframes pulse { 0%,100%{opacity:.7; transform:scale(.98)} 50%{opacity:1; transform:scale(1.03)} }
+    ]]></style>
+  </defs>
+  <rect width="820" height="326" rx="28" fill="url(#bg)"/>
+  <rect x="1" y="1" width="818" height="324" rx="27" fill="none" stroke="#ff64bd" stroke-opacity=".45"/>
+  <circle cx="142" cy="166" r="88" fill="none" stroke="#2a1430" stroke-width="16"/>
+  <circle class="ring" cx="142" cy="166" r="88" fill="none" stroke="url(#bar)" stroke-width="16" stroke-linecap="round" transform="rotate(-90 142 166)" filter="url(#glow)"/>
+  <text x="142" y="154" text-anchor="middle" fill="#fce7f3" font-size="54" font-family="Arial Black, Arial, sans-serif" font-weight="900">A+</text>
+  <text x="142" y="184" text-anchor="middle" fill="#f0abfc" font-size="16" font-family="Consolas, Monaco, monospace" font-weight="800">BUILD RANK</text>
+  <text x="282" y="54" fill="#fff0fb" font-size="27" font-family="Arial Black, Arial, sans-serif">Verified GitHub Stats</text>
+  <text x="282" y="78" fill="#d8a9e8" font-size="14" font-family="Consolas, Monaco, monospace">public API + profile page snapshot</text>
+  
+      <g class="row" style="animation-delay:0.4s">
+        <text x="282" y="96" fill="#f6d7ff" font-size="17" font-family="Inter, Arial, sans-serif" font-weight="700">Public repositories</text>
+        <text x="724" y="96" text-anchor="end" fill="#8ff7ee" font-size="18" font-family="Consolas, Monaco, monospace" font-weight="800">160</text>
+        <rect x="282" y="106" width="450" height="8" rx="4" fill="#2a1430"/>
+        <rect x="282" y="106" width="0" height="8" rx="4" fill="url(#bar)"><animate attributeName="width" from="0" to="210" dur=".9s" begin="0.7s" fill="freeze"/></rect>
+      </g>
+      <g class="row" style="animation-delay:0.54s">
+        <text x="282" y="134" fill="#f6d7ff" font-size="17" font-family="Inter, Arial, sans-serif" font-weight="700">Followers</text>
+        <text x="724" y="134" text-anchor="end" fill="#8ff7ee" font-size="18" font-family="Consolas, Monaco, monospace" font-weight="800">13</text>
+        <rect x="282" y="144" width="450" height="8" rx="4" fill="#2a1430"/>
+        <rect x="282" y="144" width="0" height="8" rx="4" fill="url(#bar)"><animate attributeName="width" from="0" to="145" dur=".9s" begin="0.84s" fill="freeze"/></rect>
+      </g>
+      <g class="row" style="animation-delay:0.68s">
+        <text x="282" y="172" fill="#f6d7ff" font-size="17" font-family="Inter, Arial, sans-serif" font-weight="700">Following</text>
+        <text x="724" y="172" text-anchor="end" fill="#8ff7ee" font-size="18" font-family="Consolas, Monaco, monospace" font-weight="800">10</text>
+        <rect x="282" y="182" width="450" height="8" rx="4" fill="#2a1430"/>
+        <rect x="282" y="182" width="0" height="8" rx="4" fill="url(#bar)"><animate attributeName="width" from="0" to="120" dur=".9s" begin="0.98s" fill="freeze"/></rect>
+      </g>
+      <g class="row" style="animation-delay:0.8200000000000001s">
+        <text x="282" y="210" fill="#f6d7ff" font-size="17" font-family="Inter, Arial, sans-serif" font-weight="700">Repository stars</text>
+        <text x="724" y="210" text-anchor="end" fill="#8ff7ee" font-size="18" font-family="Consolas, Monaco, monospace" font-weight="800">129</text>
+        <rect x="282" y="220" width="450" height="8" rx="4" fill="#2a1430"/>
+        <rect x="282" y="220" width="0" height="8" rx="4" fill="url(#bar)"><animate attributeName="width" from="0" to="190" dur=".9s" begin="1.12s" fill="freeze"/></rect>
+      </g>
+      <g class="row" style="animation-delay:0.9600000000000001s">
+        <text x="282" y="248" fill="#f6d7ff" font-size="17" font-family="Inter, Arial, sans-serif" font-weight="700">Profile stars</text>
+        <text x="724" y="248" text-anchor="end" fill="#8ff7ee" font-size="18" font-family="Consolas, Monaco, monospace" font-weight="800">224</text>
+        <rect x="282" y="258" width="450" height="8" rx="4" fill="#2a1430"/>
+        <rect x="282" y="258" width="0" height="8" rx="4" fill="url(#bar)"><animate attributeName="width" from="0" to="230" dur=".9s" begin="1.26s" fill="freeze"/></rect>
+      </g>
+  <circle class="pulse" cx="770" cy="48" r="10" fill="#14b8a6" filter="url(#glow)"/>
+</svg>
